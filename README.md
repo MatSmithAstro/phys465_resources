@@ -24,6 +24,6 @@ This module is assessed soley through coursework. Each exercise will be based on
 Submission will comprise: 
  * A jupyter notebook with completed code and results.
  * A short summary statement summarising your results. 
-    * This will be a maximum of 200 works, and can include one figure.  
+    * This will be a maximum of 200 words, and can include one figure.  
 
 ***
